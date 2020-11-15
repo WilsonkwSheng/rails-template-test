@@ -13,6 +13,7 @@ Refer to templates folder to see list of available templates
 - [x] devise
 - [x] dotenv
 - [x] haml
+- [x] pagy
 - [x] sidekiq
 - [x] simple_form
 - [x] seedbank
