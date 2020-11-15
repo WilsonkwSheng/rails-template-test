@@ -14,6 +14,7 @@ Refer to templates folder to see list of available templates
 - [x] dotenv
 - [x] haml
 - [x] pagy
+- [x] paranoia
 - [x] sidekiq
 - [x] simple_form
 - [x] seedbank
