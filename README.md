@@ -15,3 +15,4 @@ Refer to templates folder to see list of available templates
 - [x] haml
 - [x] sidekiq
 - [x] simple_form
+- [x] seedbank
