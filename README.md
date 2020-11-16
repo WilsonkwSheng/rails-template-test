@@ -21,4 +21,5 @@ Refer to templates folder to see list of available templates
 - [x] simple_form
 
 ### Templates for frontend included:
+- [x] flash
 - [x] pages
