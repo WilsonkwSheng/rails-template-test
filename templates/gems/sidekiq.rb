@@ -1,5 +1,5 @@
 def source_paths
-  Array(super) + [File.join(File.expand_path(File.dirname(__FILE__)), '../resources')]
+  Array(super) + [File.join(File.expand_path(File.dirname(__FILE__)), '../../resources')]
 end
 
 def install_sidekiq
