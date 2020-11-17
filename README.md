@@ -10,6 +10,7 @@ rails app:template LOCATION=~/path_to/templates/gems/devise.rb
 
 Refer to templates folder to see list of available templates
 ### Templates for gems included:
+- [x] administrate
 - [x] bootstrap
 - [x] devise
 - [x] dotenv
