@@ -15,6 +15,7 @@ Refer to templates folder to see list of available templates
 - [x] dotenv
 - [x] haml
 - [x] letter_opener
+- [x] oj
 - [x] pagy
 - [x] paranoia
 - [x] rspec
