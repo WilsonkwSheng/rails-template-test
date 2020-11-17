@@ -17,6 +17,7 @@ Refer to templates folder to see list of available templates
 - [x] letter_opener
 - [x] pagy
 - [x] paranoia
+- [x] rspec
 - [x] seedbank
 - [x] sidekiq
 - [x] simple_form
