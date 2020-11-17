@@ -14,6 +14,7 @@ Refer to templates folder to see list of available templates
 - [x] devise
 - [x] dotenv
 - [x] haml
+- [x] letter_opener
 - [x] pagy
 - [x] paranoia
 - [x] seedbank
