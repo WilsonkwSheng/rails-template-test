@@ -19,6 +19,7 @@ Refer to templates folder to see list of available templates
 - [x] oj
 - [x] pagy
 - [x] paranoia
+- [x] pundit
 - [x] rspec
 - [x] seedbank
 - [x] sidekiq
