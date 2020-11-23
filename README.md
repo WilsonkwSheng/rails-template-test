@@ -14,6 +14,7 @@ Refer to templates folder to see list of available templates
 - [x] bootstrap
 - [x] devise
 - [x] dotenv
+- [x] faker
 - [x] haml
 - [x] letter_opener
 - [x] oj
