@@ -1,9 +1,9 @@
-After running rails new myapp in your terminal run
+After running rails new myapp in your terminal run:
 ```
 rails new myapp -m ~/path_to/templates/gems/devise.rb
 ```
 
-An example to setup devise run
+An example to setup devise run:
 ```
 rails app:template LOCATION=~/path_to/templates/gems/devise.rb
 ```
